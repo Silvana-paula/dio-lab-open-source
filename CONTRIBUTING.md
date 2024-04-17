@@ -43,7 +43,6 @@
     > Em caso de aprovação o bot irá disponibilidar o link do repositório com a opção de copiar, volte na plataforma da DIO e entregue seu projeto.
     
 ## Convenção de Commits 
-
 | Tipo de Commit | Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
@@ -55,6 +54,7 @@
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+
 
 
 ## Referências
